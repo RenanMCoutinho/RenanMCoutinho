@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Renan Coutinho
+# 👋 Olá, eu sou o Renan Marcilio
 
 🚀 Desenvolvedor focado em **.NET / C#**, aplicações web e automações  
 📍 Brasil  
@@ -7,8 +7,6 @@
 
 ## 🧑‍💻 Sobre mim
 - 💼 Desenvolvo sistemas web e soluções para controle do dia a dia
-- 📊 Gosto de dashboards, relatórios e automações
-- 🤖 Interesse em trading bots, IA e automação de processos
 - 📱 Foco em aplicações web responsivas (mobile first)
 
 ---
@@ -27,7 +25,6 @@
 - 🚗 Sistema de controle de entregas e fretes
 - 📊 Computador de bordo (KM, combustível e relatórios)
 - 🤖 Robôs de trading (MetaTrader / MQL5)
-- 📺 Canal no YouTube mostrando trajetos por São Paulo
 
 ---
 
@@ -38,7 +35,7 @@
 
 ## 📫 Contato
 - 💼 GitHub: [github.com/RenanMCoutinho](https://github.com/RenanMCoutinho)
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: [linkedin.com/in/maarcilio](https://www.linkedin.com/in/maarcilio/)
 
 ---
 
