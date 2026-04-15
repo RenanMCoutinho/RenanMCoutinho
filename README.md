@@ -28,8 +28,11 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMCoutinho&show_icons=true&theme=dark&cache_seconds=1800)
+## 🏢 Projetos recentes na SRM
+- ⚖️ **Portal Jurídico / Escavador**: evolução da consulta de processos, ajustes de tela e adaptação do fluxo para integração com a API do Escavador
+- 📄 **Processos Jurídicos**: melhorias no modal de processos, exibição de envolvidos e inclusão da aba de contratos do colaborador
+- 📡 **Monitoramento de processos**: criação da estrutura inicial da tela de monitoramento de novos processos no portal
+- 🧩 **SRM Portal**: manutenção evolutiva em módulos web com foco em UX, organização de fluxo e integrações com backend
 
 ---
 
