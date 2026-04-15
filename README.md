@@ -29,7 +29,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMCoutinho&show_icons=true&theme=dark)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanMCoutinho&show_icons=true&theme=dark&cache_seconds=1800)
 
 ---
 
